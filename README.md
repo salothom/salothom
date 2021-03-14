@@ -1,5 +1,14 @@
-### Hi there 👋
+## Howdy! I'm Sarah Thompson
 
+I'm a Midwesterner living in Austin, Texas. 
+ 
+ 
+ - I blog about [tech things](https://dev.to/salothom)
+ - I have a Swift app out on the Apple Store for the brand [Bored in Chicago](https://apps.apple.com/us/app/bored-in-chicago/id1534793884)
+ - I sometimes make playlists on [Spotify](https://open.spotify.com/user/1242326189?si=nvhZn5nAQHaD48_Rt6bvGg_)
+  
+  
+  
 <!--
 **salothom/salothom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
